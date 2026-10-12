@@ -1,35 +1,51 @@
-# MAPA WEB JOSE MANGRIÑAN
+# JOSE MANGRIÑAN
+# MAPA DE NAVEGACION
 
-## INICIO
+INICIO
 
-Presentación
-Centenario 1929-2029
-Novedades
-Accesos rápidos
+BIOGRAFIA
 
----
+CRONOLOGIA
 
-## BIOGRAFÍA
+EQUIPOS
 
-Infancia
+GRANDES ACONTECIMIENTOS
 
-Familia
+ANECDOTAS
 
-Servicio militar
+ARCHIVO DOCUMENTAL
 
-Vida profesional
+GALERIA
 
-Retirada
+HEMEROTECA
 
-Últimos años
+PERSONAS
 
----
+CENTENARIO 2029
 
-## CRONOLOGÍA
+
+=================================================
+
+BIOGRAFIA
+
+- Infancia
+- Juventud
+- Vida Familiar
+- Servicio Militar
+- Carrera Futbolistica
+- Retirada
+- Homenajes
+
+
+=================================================
+
+CRONOLOGIA
 
 1929
 
 1930
+
+1931
 
 ...
 
@@ -47,19 +63,21 @@ Retirada
 
 2029
 
-Cada año debe mostrar:
+Cada año mostrará:
 
-- Equipos
-- Partidos
-- Fotografías
-- Documentos
-- Anécdotas
 - Vida familiar
+- Equipo
+- Partidos
+- Fotografias
 - Prensa
+- Anecdotas
+- Documentos
+- Acontecimientos
 
----
 
-## EQUIPOS
+=================================================
+
+EQUIPOS
 
 CD Piel
 
@@ -69,49 +87,55 @@ CD Mestalla
 
 Valencia CF
 
-Deportivo La Coruña
+Deportivo de La Coruna
 
-Hércules CF
+Hercules CF
 
-CD Castellón
+CD Castellon
 
 Villarreal CF
 
 CD Onda
 
----
 
-## GRANDES ACONTECIMIENTOS
+=================================================
 
-Marcaje a Di Stéfano
+GRANDES ACONTECIMIENTOS
 
-Pequeña Copa del Mundo
+Debut en Primera Division
 
 Ascenso del Mestalla
 
-Debut en Primera División
+Marcaje a Di Stefano
+
+Pequeña Copa del Mundo
 
 Boda
 
-Viaje de novios
+Viaje de Novios
 
----
+Centenario 2029
 
-## ANÉCDOTAS
+
+=================================================
+
+ANECDOTAS
 
 La boda retrasada por Venezuela
 
-La exigencia venezolana de que acudiera Mangriñán
+El requisito venezolano:
+"Debe venir Mangriñan"
 
-El viaje de novios regalado por el Valencia CF
+El viaje de novios regalado por el Valencia
 
-Pruebas con el RCD Español
+Las pruebas con el Español
 
-Otras anécdotas
+Otras anecdotas
 
----
 
-## ARCHIVO DOCUMENTAL
+=================================================
+
+ARCHIVO DOCUMENTAL
 
 Carnets
 
@@ -125,9 +149,29 @@ Correspondencia
 
 Certificados
 
----
+Cromos
 
-## HEMEROTECA
+
+=================================================
+
+GALERIA
+
+Futbol
+
+Familia
+
+Boda
+
+Equipos
+
+Viajes
+
+Homenajes
+
+
+=================================================
+
+HEMEROTECA
 
 Prensa deportiva
 
@@ -135,53 +179,22 @@ Prensa general
 
 Entrevistas
 
-Homenajes
+Reportajes
 
-Obituarios
+Menciones historicas
 
-Artículos históricos
+Recordatorios del marcaje a Di Stefano
 
----
 
-## CROMOS
+=================================================
 
-Valencia CF
+PERSONAS
 
-Hércules CF
-
-Castellón
-
-Villarreal
-
-Otros
-
----
-
-## FOTOGRAFÍAS
-
-Fútbol
-
-Familia
-
-Boda
-
-Entrenamientos
-
-Equipos
-
-Homenajes
-
-Viajes
-
----
-
-## PERSONAS RELACIONADAS
-
-Alfredo Di Stéfano
+Alfredo Di Stefano
 
 Pasieguito
 
-Compañeros de equipo
+Companeros
 
 Entrenadores
 
@@ -189,16 +202,17 @@ Directivos
 
 Familiares
 
----
 
-## CENTENARIO 2029
+=================================================
+
+CENTENARIO 2029
 
 100 años del nacimiento
 
-75 años del marcaje a Di Stéfano
+75 años del marcaje a Di Stefano
 
 Exposiciones
 
-Conmemoraciones
-
 Publicaciones
+
+Homenajes
